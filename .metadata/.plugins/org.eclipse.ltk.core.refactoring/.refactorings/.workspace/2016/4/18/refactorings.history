@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;obj_Mem_scp&apos;" deleteContents="true" description="Delete resource &apos;obj_Mem_scp&apos;" element1="/obj_Mem_scp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1461954853307"/>
+</session>
